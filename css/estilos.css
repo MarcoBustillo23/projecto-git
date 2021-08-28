@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+    background-color: black;
+}
+
+a{
+    color: blanchedalmond;
+    background-color: blueviolet;
+
+}
+
+img{
+    width: 600px;
+    height: 500px;
+    border: 2px 50px;
+    display: block;
+}
